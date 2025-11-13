@@ -17,7 +17,7 @@ The main objectives of this project are:
 ---
 
 ## 📂 Project File
-This repository includes the final project report:
+The final project report:
 
 - **[report.pdf](report.pdf)** – Detailed analysis and insights for the Restaurant Sales Analysis project.
 
